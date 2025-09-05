@@ -1,0 +1,1 @@
+export let JWT_SECRET="1234567"
